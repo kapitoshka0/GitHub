@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scripts/hello.unity
+  isLoaded: 1
+  isActive: 1
